@@ -11,6 +11,7 @@
   "dependencies": {
     "@prisma/client": "^6.7.0",
     "@types/node": "^22.14.1",
+    "autoprefixer": "^10.4.21",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "drizzle-orm": "^0.43.1",
@@ -35,14 +36,10 @@
     "@replit/vite-plugin-cartographer": "^0.1.2",
     "@replit/vite-plugin-runtime-error-modal": "^0.0.3",
     "@replit/vite-plugin-shadcn-theme-json": "^0.0.4",
-    "@tailwindcss/postcss": "^4.1.5",
     "@types/express": "^5.0.1",
     "@types/express-session": "^1.18.1",
     "@types/ws": "^8.18.1",
     "@vitejs/plugin-react": "^4.4.1",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^4.1.4",
     "vite": "^6.3.4"
   }
 }
